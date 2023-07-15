@@ -4,7 +4,7 @@
     "description": "Simple library to launch timed actions..",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nocturnailed/NocturnailedSimpleTimer"
+        "url": "https://github.com/Nocturnailed-Community/NocturnailedSimpleTimer"
     },
     "version": "1.0.0",
     "exclude": "tests",
